@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, my name's Kevin 👋
+
+I am currently improving my Python skills for Machine Learning. Main interest is using data science in the fields of Finance and Marketing.
 
 <!--
 **Kevin-Craft/kevin-craft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
